@@ -1,0 +1,557 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		E367508A2D36E50C00BB2B9D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E36750712D36E50B00BB2B9D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E36750782D36E50B00BB2B9D;
+			remoteInfo = CodeChallengeFlickrImages;
+		};
+		E36750942D36E50C00BB2B9D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E36750712D36E50B00BB2B9D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E36750782D36E50B00BB2B9D;
+			remoteInfo = CodeChallengeFlickrImages;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		E36750792D36E50B00BB2B9D /* CodeChallengeFlickrImages.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CodeChallengeFlickrImages.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E36750892D36E50C00BB2B9D /* CodeChallengeFlickrImagesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CodeChallengeFlickrImagesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E36750932D36E50C00BB2B9D /* CodeChallengeFlickrImagesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CodeChallengeFlickrImagesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		E367507B2D36E50B00BB2B9D /* CodeChallengeFlickrImages */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = CodeChallengeFlickrImages;
+			sourceTree = "<group>";
+		};
+		E367508C2D36E50C00BB2B9D /* CodeChallengeFlickrImagesTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = CodeChallengeFlickrImagesTests;
+			sourceTree = "<group>";
+		};
+		E36750962D36E50C00BB2B9D /* CodeChallengeFlickrImagesUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = CodeChallengeFlickrImagesUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E36750762D36E50B00BB2B9D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E36750862D36E50C00BB2B9D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E36750902D36E50C00BB2B9D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		E36750702D36E50B00BB2B9D = {
+			isa = PBXGroup;
+			children = (
+				E367507B2D36E50B00BB2B9D /* CodeChallengeFlickrImages */,
+				E367508C2D36E50C00BB2B9D /* CodeChallengeFlickrImagesTests */,
+				E36750962D36E50C00BB2B9D /* CodeChallengeFlickrImagesUITests */,
+				E367507A2D36E50B00BB2B9D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		E367507A2D36E50B00BB2B9D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E36750792D36E50B00BB2B9D /* CodeChallengeFlickrImages.app */,
+				E36750892D36E50C00BB2B9D /* CodeChallengeFlickrImagesTests.xctest */,
+				E36750932D36E50C00BB2B9D /* CodeChallengeFlickrImagesUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E36750782D36E50B00BB2B9D /* CodeChallengeFlickrImages */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E367509D2D36E50C00BB2B9D /* Build configuration list for PBXNativeTarget "CodeChallengeFlickrImages" */;
+			buildPhases = (
+				E36750752D36E50B00BB2B9D /* Sources */,
+				E36750762D36E50B00BB2B9D /* Frameworks */,
+				E36750772D36E50B00BB2B9D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				E367507B2D36E50B00BB2B9D /* CodeChallengeFlickrImages */,
+			);
+			name = CodeChallengeFlickrImages;
+			packageProductDependencies = (
+			);
+			productName = CodeChallengeFlickrImages;
+			productReference = E36750792D36E50B00BB2B9D /* CodeChallengeFlickrImages.app */;
+			productType = "com.apple.product-type.application";
+		};
+		E36750882D36E50C00BB2B9D /* CodeChallengeFlickrImagesTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E36750A02D36E50C00BB2B9D /* Build configuration list for PBXNativeTarget "CodeChallengeFlickrImagesTests" */;
+			buildPhases = (
+				E36750852D36E50C00BB2B9D /* Sources */,
+				E36750862D36E50C00BB2B9D /* Frameworks */,
+				E36750872D36E50C00BB2B9D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E367508B2D36E50C00BB2B9D /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				E367508C2D36E50C00BB2B9D /* CodeChallengeFlickrImagesTests */,
+			);
+			name = CodeChallengeFlickrImagesTests;
+			packageProductDependencies = (
+			);
+			productName = CodeChallengeFlickrImagesTests;
+			productReference = E36750892D36E50C00BB2B9D /* CodeChallengeFlickrImagesTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		E36750922D36E50C00BB2B9D /* CodeChallengeFlickrImagesUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E36750A32D36E50C00BB2B9D /* Build configuration list for PBXNativeTarget "CodeChallengeFlickrImagesUITests" */;
+			buildPhases = (
+				E367508F2D36E50C00BB2B9D /* Sources */,
+				E36750902D36E50C00BB2B9D /* Frameworks */,
+				E36750912D36E50C00BB2B9D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E36750952D36E50C00BB2B9D /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				E36750962D36E50C00BB2B9D /* CodeChallengeFlickrImagesUITests */,
+			);
+			name = CodeChallengeFlickrImagesUITests;
+			packageProductDependencies = (
+			);
+			productName = CodeChallengeFlickrImagesUITests;
+			productReference = E36750932D36E50C00BB2B9D /* CodeChallengeFlickrImagesUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		E36750712D36E50B00BB2B9D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					E36750782D36E50B00BB2B9D = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					E36750882D36E50C00BB2B9D = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = E36750782D36E50B00BB2B9D;
+					};
+					E36750922D36E50C00BB2B9D = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = E36750782D36E50B00BB2B9D;
+					};
+				};
+			};
+			buildConfigurationList = E36750742D36E50B00BB2B9D /* Build configuration list for PBXProject "CodeChallengeFlickrImages" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = E36750702D36E50B00BB2B9D;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = E367507A2D36E50B00BB2B9D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E36750782D36E50B00BB2B9D /* CodeChallengeFlickrImages */,
+				E36750882D36E50C00BB2B9D /* CodeChallengeFlickrImagesTests */,
+				E36750922D36E50C00BB2B9D /* CodeChallengeFlickrImagesUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		E36750772D36E50B00BB2B9D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E36750872D36E50C00BB2B9D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E36750912D36E50C00BB2B9D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E36750752D36E50B00BB2B9D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E36750852D36E50C00BB2B9D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E367508F2D36E50C00BB2B9D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		E367508B2D36E50C00BB2B9D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E36750782D36E50B00BB2B9D /* CodeChallengeFlickrImages */;
+			targetProxy = E367508A2D36E50C00BB2B9D /* PBXContainerItemProxy */;
+		};
+		E36750952D36E50C00BB2B9D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E36750782D36E50B00BB2B9D /* CodeChallengeFlickrImages */;
+			targetProxy = E36750942D36E50C00BB2B9D /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		E367509B2D36E50C00BB2B9D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		E367509C2D36E50C00BB2B9D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		E367509E2D36E50C00BB2B9D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"CodeChallengeFlickrImages/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = me.Liu.Ke.CodeChallengeFlickrImages;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		E367509F2D36E50C00BB2B9D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"CodeChallengeFlickrImages/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = me.Liu.Ke.CodeChallengeFlickrImages;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		E36750A12D36E50C00BB2B9D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = me.Liu.Ke.CodeChallengeFlickrImagesTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CodeChallengeFlickrImages.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/CodeChallengeFlickrImages";
+			};
+			name = Debug;
+		};
+		E36750A22D36E50C00BB2B9D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = me.Liu.Ke.CodeChallengeFlickrImagesTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CodeChallengeFlickrImages.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/CodeChallengeFlickrImages";
+			};
+			name = Release;
+		};
+		E36750A42D36E50C00BB2B9D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = me.Liu.Ke.CodeChallengeFlickrImagesUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = CodeChallengeFlickrImages;
+			};
+			name = Debug;
+		};
+		E36750A52D36E50C00BB2B9D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = me.Liu.Ke.CodeChallengeFlickrImagesUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = CodeChallengeFlickrImages;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E36750742D36E50B00BB2B9D /* Build configuration list for PBXProject "CodeChallengeFlickrImages" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E367509B2D36E50C00BB2B9D /* Debug */,
+				E367509C2D36E50C00BB2B9D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E367509D2D36E50C00BB2B9D /* Build configuration list for PBXNativeTarget "CodeChallengeFlickrImages" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E367509E2D36E50C00BB2B9D /* Debug */,
+				E367509F2D36E50C00BB2B9D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E36750A02D36E50C00BB2B9D /* Build configuration list for PBXNativeTarget "CodeChallengeFlickrImagesTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E36750A12D36E50C00BB2B9D /* Debug */,
+				E36750A22D36E50C00BB2B9D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E36750A32D36E50C00BB2B9D /* Build configuration list for PBXNativeTarget "CodeChallengeFlickrImagesUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E36750A42D36E50C00BB2B9D /* Debug */,
+				E36750A52D36E50C00BB2B9D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E36750712D36E50B00BB2B9D /* Project object */;
+}
